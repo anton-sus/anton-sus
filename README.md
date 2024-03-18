@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Anton
-- 👀 I’m interested in CS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> </p>
+- 👀 I’m interested in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> </p>
 - 🌱 I’m currently learning Frontend
-
-
-
 
 
 <!---
