@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anton Sushkov
+- 👋 Hi, I’m Anton
 - 🌱 I’m currently learning Frontend
 - 👀 I’m interested in <a href="https://angular.io" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="20" height="20"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/>
